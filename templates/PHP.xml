@@ -1,14 +1,6 @@
 <templateSet group="PHP">
-  <template name="rqr" value="require &quot;$END$&quot;;" description="'require' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="rqro" value="require_once &quot;$END$&quot;;" description="'require_once' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="inc" value="include &quot;$END$&quot;;" description="'include' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="inco" value="include_once &quot;$END$&quot;;" description="'include_once' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="rqr" value="require &quot;$END$&quot;;" description="'require' statement" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="rqro" value="require_once &quot;$END$&quot;;" description="'require_once' statement" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="inc" value="include &quot;$END$&quot;;" description="'include' statement" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="inco" value="include_once &quot;$END$&quot;;" description="'include_once' statement" toReformat="true" toShortenFQNames="true" deactivated="true" />
 </templateSet>
