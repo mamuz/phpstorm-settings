@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[PhpDependencyAnalysis] - .../src/Command/Testet.php'" />
-    <option name="defaultScopeName" value="File '[PhpDependencyAnalysis] - .../src/Command/Testet.php'" />
-    <option name="SEARCH_SCOPE" value="File '[PhpDependencyAnalysis] - .../src/Command/Testet.php'" />
+    <option name="customScope" value="Project 'PhpDependencyAnalysis'" />
+    <option name="defaultScopeName" value="Project 'PhpDependencyAnalysis'" />
+    <option name="SEARCH_SCOPE" value="Project 'PhpDependencyAnalysis'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
