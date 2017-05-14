@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="git-learn" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
